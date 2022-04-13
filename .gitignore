@@ -45,7 +45,8 @@ fp-info-cache
 *.gbp
 *.gbo
 *.gml
-*-gtl
+*.gm1
+*.gtl
 *.gts
 *.gtp
 *.gto
