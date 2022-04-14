@@ -23,7 +23,7 @@ Several components is all schmatics were replaced with the new modified ones.
  * V3.1.3 - Feature update - GND zone filled for autostart og ProgrammablePulsGenerator.
  * V4.0.0 - Final project files including Gerbers and BOM list.<br>Due to the BOM Generation script for creating BOM lists for JLCPCB, has trouble with spaces in the path on Windows, The project has been moved to a full path without spaces.<br>
  To reduce issues with github versioning, the project will from Version 4.0.0. be located as sbv1307/combined-II.<br>
- Version 4.0.0 will be Base version for future versions.
+  * V4.0.4 - Version 4.0.1 Documentation update.
  
 
 
